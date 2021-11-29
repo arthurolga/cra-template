@@ -1,4 +1,4 @@
-# Proposição Stack Frontend Khipo
+# Proposição Stack Frontend
 
 
 ## Stack principal
